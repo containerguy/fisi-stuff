@@ -1,0 +1,2 @@
+# Ignore ISO files in vms/iso except if explicitly added
+vms/iso/*.iso
