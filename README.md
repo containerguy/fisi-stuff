@@ -16,6 +16,10 @@ Die Aufgaben sind so konzipiert, dass sie auf 3 Minisforum HM90 mit Proxmox VE a
 
 ---
 
+## Getting Started
+
+in `docs/fisi_setup_guide.md` findest du Informationen, wie du deinen Client gut vorbereiten kannst um die Aufgaben einfach und effizient zu bearbeiten.
+
 ## Git Struktur
 
 ```
